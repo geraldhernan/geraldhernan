@@ -2,7 +2,6 @@
 - 👀 I’m interested in python, SQL, Excel VBA, web programming.
 - 🌱 I’m currently learning django and pyqt5 for desktop GUIs with python.
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...
 
 <!---
 geraldhernan/geraldhernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
